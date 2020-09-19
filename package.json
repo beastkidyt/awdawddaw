@@ -2,8 +2,8 @@
     "name": "simple-bot",
     "version": "1.0.0",
     "description": "This is a simple test and experiment bot",
-    "main": "trial-bot.js",
-    "author": "TheNaman047",
+    "main": "beast-bot.js",
+    "author": "beastkidyt",
     "scripts": {
         "start": "node bot.js"
     },
